@@ -1,0 +1,7 @@
+# Employee Management Application (Task 11 - Modules & Packages)
+# Requires Python 3.9+
+#
+# The core app (main.py + employee_app package) uses only the standard library.
+# Streamlit is needed ONLY for the optional web interface (app.py).
+# pandas is installed automatically together with streamlit.
+streamlit>=1.50

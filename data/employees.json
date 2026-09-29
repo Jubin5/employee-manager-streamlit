@@ -1,0 +1,23 @@
+[
+  {
+    "emp_id": 1001,
+    "name": "Jubin K Babu",
+    "department": "Ai Intern",
+    "salary": 500000.0,
+    "email": "jubinxxx@gmail.com"
+  },
+  {
+    "emp_id": 1002,
+    "name": "Govind Mohan",
+    "department": "Ai Intern",
+    "salary": 500000.0,
+    "email": "govindxxx@gmail.com"
+  },
+  {
+    "emp_id": 1003,
+    "name": "Rahul Ks",
+    "department": "Java Intern",
+    "salary": 600000.0,
+    "email": "rahulxxx@gmail.com"
+  }
+]
