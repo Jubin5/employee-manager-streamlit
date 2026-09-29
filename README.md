@@ -1,4 +1,4 @@
-# Employee Management Application (Task 11 - Modules & Packages)
+# Employee Management Application 
 
 ## Structure
 ```
