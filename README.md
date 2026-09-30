@@ -17,9 +17,6 @@ python main.py
 ```
 Requires Python 3.7+ (no external libraries).
 
-## Responsibilities
-- Member 1: `models.py`, `utils.py` (data model, validation, input/table helpers)
-- Member 2: `employee_service.py`, `main.py`, `__init__.py` (CRUD logic, app flow)
 
 ## Import flow
 `main.py` -> `employee_app` (`__init__`) -> `employee_service` -> `models`, `utils`
