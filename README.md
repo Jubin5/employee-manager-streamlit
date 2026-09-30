@@ -20,3 +20,7 @@ Requires Python 3.7+ (no external libraries).
 
 ## Import flow
 `main.py` -> `employee_app` (`__init__`) -> `employee_service` -> `models`, `utils`
+
+streamlit link below: 
+
+https://employee-manager-app.streamlit.app/
