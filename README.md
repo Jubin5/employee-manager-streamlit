@@ -6,9 +6,9 @@ employee_management/
 ├── main.py                     # entry point (menu / application flow)
 └── employee_app/               # package
     ├── __init__.py             # package init, exports Employee & EmployeeService
-    ├── models.py               # Employee model            (Member 1)
-    ├── utils.py                # validation & helpers      (Member 1)
-    └── employee_service.py     # CRUD business logic       (Member 2)
+    ├── models.py               # Employee model           
+    ├── utils.py                # validation & helpers      
+    └── employee_service.py     # CRUD business logic       
 ```
 
 ## Run
